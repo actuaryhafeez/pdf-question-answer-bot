@@ -1,0 +1,6 @@
+python-dotenv 
+streamlit 
+PyPDF2 
+langchain 
+faiss-gpu 
+sqlalchemy
