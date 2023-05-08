@@ -20,6 +20,11 @@ The repository includes all the necessary code and dependencies to run the app l
 * Streamlit
 * OpenAI API
 * PyPDF2 or pdfminer (for extracting text from PDF files)
+
+![GIF 1](./data/gif1.gif)
+![GIF 2](./data/gif2.gif)
+![GIF 3](./data/gif3.gif)
+
 # How to Use
 ## To run the app, first clone the repository:
     git clone https://github.com/actuaryhafeez/pdf-question-answer-bot.git
