@@ -21,6 +21,12 @@ The repository includes all the necessary code and dependencies to run the app l
 * OpenAI API
 * PyPDF2 or pdfminer (for extracting text from PDF files)
 
+# Files
+
+- `data/The Rise of Electric Vehicles.pdf`: A PDF file containing information about the rise of electric vehicles.
+- `data/questions.txt`: A text file with example questions that can be asked about the content in the PDF.
+
+
 ![GIF 1](./data/gif1.gif)
 ![GIF 2](./data/gif2.gif)
 ![GIF 3](./data/gif3.gif)
