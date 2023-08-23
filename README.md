@@ -26,7 +26,8 @@ The repository includes all the necessary code and dependencies to run the app l
 - `data/The Rise of Electric Vehicles.pdf`: A PDF file containing information about the rise of electric vehicles.
 - `data/questions.txt`: A text file with example questions that can be asked about the content in the PDF.
 
-
+# App Preview
+Here are some GIFs showcasing the functionality of the app:
 ![GIF 1](./data/gif1.gif)
 ![GIF 2](./data/gif2.gif)
 ![GIF 3](./data/gif3.gif)
