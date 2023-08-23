@@ -43,10 +43,12 @@ To keep your project dependencies isolated, it's recommended to use a Python vir
     git clone https://github.com/actuaryhafeez/pdf-question-answer-bot.git
 ## Create and Activate a Virtual Environment
 On Windows:
+
     python -m venv venv
     venv\Scripts\activate
 
 On macOS and Linux:
+
     python3 -m venv venv
     source venv/bin/activate
 
