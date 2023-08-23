@@ -20,6 +20,7 @@ The repository includes all the necessary code and dependencies to run the app l
 * Streamlit
 * OpenAI API
 * PyPDF2 or pdfminer (for extracting text from PDF files)
+* langchain
 
 # Files
 
@@ -33,24 +34,39 @@ Here are some GIFs showcasing the functionality of the app:
 ![GIF 3](./data/gif3.gif)
 
 # How to Use
+## Setting Up a Virtual Environment
+
+To keep your project dependencies isolated, it's recommended to use a Python virtual environment. Here's how to set it up:
+
+
 ## To run the app, first clone the repository:
     git clone https://github.com/actuaryhafeez/pdf-question-answer-bot.git
+## Create and Activate a Virtual Environment
+On Windows:
+    python -m venv venv
+    venv\Scripts\activate
+
+On macOS and Linux:
+    python3 -m venv venv
+    source venv/bin/activate
+
 ## Next, install the required packages using pip:
     pip install -r requirements.txt
-## Run Jupyter Notebook using the following command to open notebook.ipynb
-    jupyter notebook
     
 ## Then, run the app:
     streamlit run app.py
 
 ## Project Structure 
 
-    A-web-scraping-project-for-books.toscrape.com-using-Python-and-BeautifulSoup/
+    pdf-question-answer-bot/
         ├── data/
         ├── app.py/
-        ├── notebook.ipynb/
         ├── requirements.txt/
         ├── README.md/
+        ├── .env-sample/
+        ├── LICENSE/
+
+        
 
 ## License
 
